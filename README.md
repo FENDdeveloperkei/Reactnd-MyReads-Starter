@@ -1,15 +1,20 @@
 # MyReads Library
----
-This site provides you with your own personal bookshelf with 3 shelves, currently reading, want to read, and read. You can also search for books to add to any shelf.
 
-## Start Reading
-Download the zip file into your favorite directory.
+# Contacts Project
 
-## Instructions
-1. Open a terminal window
-2. `cd` into the directory of the zip file
-3. Input `npm install` into terminal
-4. Input `npm start` into terminal
+This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+
+Most of the commits in this repository correspond to videos in the program.
+
+## Project Setup
+
+1. Clone the Project - `git clone https://github.com/udacity/reactnd-contacts-complete.git`
+2. Go into the directory where the project now lives - `cd reactnd-contacts-complete`
+3. Install the dependencies - `npm install`
+4. Start the app - `npm start`
 5. The program should automatically open on `localhost:3000` in the browser, if not type in `localhost:3000` in the browser
 
-### Enjoy
+## Contributing
+
+Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
+If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
